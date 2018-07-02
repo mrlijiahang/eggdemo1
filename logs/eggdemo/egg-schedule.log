@@ -1,0 +1,12 @@
+2018-07-02 11:37:02,057 INFO 7052 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-07-03 00:00:00.000
+2018-07-02 11:37:02,059 INFO 7052 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-07-03 00:00:01.000
+2018-07-02 11:42:26,045 INFO 5620 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-07-03 00:00:00.000
+2018-07-02 11:42:26,047 INFO 5620 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-07-03 00:00:01.000
+2018-07-02 15:32:14,401 INFO 7156 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-07-03 00:00:00.000
+2018-07-02 15:32:14,402 INFO 7156 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-07-03 00:00:01.000
+2018-07-02 16:15:33,704 INFO 6444 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-07-03 00:00:00.000
+2018-07-02 16:15:33,705 INFO 6444 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-07-03 00:00:01.000
+2018-07-02 16:18:02,172 INFO 8160 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-07-03 00:00:00.000
+2018-07-02 16:18:02,173 INFO 8160 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-07-03 00:00:01.000
+2018-07-02 16:28:56,100 INFO 4948 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-07-03 00:00:00.000
+2018-07-02 16:28:56,101 INFO 4948 [Timer] C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-07-03 00:00:01.000

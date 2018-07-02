@@ -1,0 +1,168 @@
+2018-07-02 16:14:08,407 ERROR 2412 [-/127.0.0.1/-/8ms GET /3] nodejs.TypeError: ctx.validate is not a function
+    at PostController.find1 (C:\Users\Administrator\Desktop\egg.js-demo-master\app\controller\post.js:27:9)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at i18n (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dta (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+
+pid: 2412
+hostname: AYNCM816R2YYFGR
+
+2018-07-02 16:14:23,216 ERROR 2412 [-/127.0.0.1/-/1ms GET /3] nodejs.TypeError: ctx.validate is not a function
+    at PostController.find1 (C:\Users\Administrator\Desktop\egg.js-demo-master\app\controller\post.js:27:9)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at i18n (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dta (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+
+pid: 2412
+hostname: AYNCM816R2YYFGR
+
+2018-07-02 16:38:19,373 ERROR 6104 [-/127.0.0.1/-/14ms GET /3] nodejs.ReferenceError: success is not defined
+    at PostController.find1 (C:\Users\Administrator\Desktop\egg.js-demo-master\app\controller\post.js:44:5)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at i18n (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dta (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+
+pid: 6104
+hostname: AYNCM816R2YYFGR
+
+2018-07-02 16:38:22,621 ERROR 6104 [-/127.0.0.1/-/2ms GET /3] nodejs.ReferenceError: success is not defined
+    at PostController.find1 (C:\Users\Administrator\Desktop\egg.js-demo-master\app\controller\post.js:44:5)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at i18n (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dta (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+
+pid: 6104
+hostname: AYNCM816R2YYFGR
+
+2018-07-02 16:38:28,539 ERROR 3520 [-/127.0.0.1/-/15ms GET /3] nodejs.ReferenceError: success is not defined
+    at PostController.find1 (C:\Users\Administrator\Desktop\egg.js-demo-master\app\controller\post.js:44:5)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at i18n (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dta (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+
+pid: 3520
+hostname: AYNCM816R2YYFGR
+
+2018-07-02 16:38:38,393 ERROR 3520 [-/127.0.0.1/-/2ms GET /3] nodejs.ReferenceError: success is not defined
+    at PostController.find1 (C:\Users\Administrator\Desktop\egg.js-demo-master\app\controller\post.js:44:5)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at i18n (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dta (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+
+pid: 3520
+hostname: AYNCM816R2YYFGR
+
+2018-07-02 16:38:39,172 ERROR 3520 [-/127.0.0.1/-/1ms GET /3] nodejs.ReferenceError: success is not defined
+    at PostController.find1 (C:\Users\Administrator\Desktop\egg.js-demo-master\app\controller\post.js:44:5)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at i18n (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dta (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+
+pid: 3520
+hostname: AYNCM816R2YYFGR
+
+2018-07-02 16:38:54,139 ERROR 2816 [-/127.0.0.1/-/13ms GET /3] nodejs.ReferenceError: success is not defined
+    at PostController.find1 (C:\Users\Administrator\Desktop\egg.js-demo-master\app\controller\post.js:44:5)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at i18n (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dispatch (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\koa-compose\index.js:42:32)
+    at dta (C:\Users\Administrator\Desktop\egg.js-demo-master\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+
+pid: 2816
+hostname: AYNCM816R2YYFGR
+
